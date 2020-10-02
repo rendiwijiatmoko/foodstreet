@@ -6,9 +6,9 @@
 
       <div class="row mt-4">
         <div class="col">
-          <h2>Best <strong>Foods</strong></h2>
+          <h2>Makanan <strong>Favorite</strong></h2>
         </div>
-        <div class="col">
+        <div class="col d-none d-md-block">
           <router-link to="/foods" class="btn-link float-right">
             Lihat Semua ->
           </router-link>

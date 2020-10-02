@@ -37,6 +37,7 @@
               <button class="btn btn-lg btn-success">
                 <b-icon-arrow-right />Pesan
               </button>
+              <hr/>
             </div>
           </div>
         </div>
