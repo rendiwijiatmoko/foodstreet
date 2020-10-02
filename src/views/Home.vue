@@ -9,8 +9,8 @@
           <h2>Best <strong>Foods</strong></h2>
         </div>
         <div class="col">
-          <router-link to="/foods" class="btn btn-success float-right"
-            >Lihat Semua
+          <router-link to="/foods" class="btn-link float-right">
+            Lihat Semua ->
           </router-link>
         </div>
       </div>

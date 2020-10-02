@@ -8,11 +8,11 @@
 
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav>
-            <li class="nav-item active">
-              <router-link class="nav-link" to="/">Home</router-link>
+            <li class="nav-item">
+              <router-link class="nav-link" to="/">Beranda</router-link>
             </li>
             <li class="nav-item">
-              <router-link class="nav-link" to="/foods">Foods</router-link>
+              <router-link class="nav-link" to="/foods">Menu</router-link>
             </li>
           </b-navbar-nav>
 

@@ -9,7 +9,7 @@
       </div>
 
       <div class="row mt-3">
-        <div class="input-group mb-3">
+        <div class="input-group mb-3 pl-3 pr-3">
           <input
             v-model="search"
             type="text"
